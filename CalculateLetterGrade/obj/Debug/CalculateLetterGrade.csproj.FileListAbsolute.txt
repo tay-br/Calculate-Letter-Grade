@@ -1,0 +1,10 @@
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.AssemblyReference.cache
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\CIS160\Homework 01\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
